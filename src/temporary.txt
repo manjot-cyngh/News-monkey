@@ -1,0 +1,9 @@
+<a className="nav-link" href="#">Business</a>
+<a className="nav-link" href="#">Entertainment</a>
+<a className="nav-link" href="#">General</a>
+<a className="nav-link" href="#">Health</a>
+<a className="nav-link" href="#">Science</a>
+<a className="nav-link" href="#">Sports</a>
+<a className="nav-link" href="#">Technology</a>
+
+<a className="nav-link" href="#">About</a>
